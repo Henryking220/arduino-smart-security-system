@@ -1,5 +1,13 @@
 # 🔐 Arduino Smart Security System
+![Arduino Smart Security System](security-system.jpeg)
 
+
+
+### 🎥 Project Demonstration
+
+
+
+[▶️ Watch the Project Demonstration](security-system-demo.mp4)
 An Arduino-based smart security system prototype combining motion detection, distance sensing, keypad authentication, LCD monitoring, automatic lighting, and audible proximity alerts.
 
 ## 📌 Project Overview
